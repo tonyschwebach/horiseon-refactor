@@ -18,16 +18,18 @@ Refactor included:
 --------------------------------------------------------------------------
 ## Installation
 
-The URL of the deployed application.
+The URL of the deployed application:
 [https://tonyschwebach.github.io/horiseon-refactor/](https://tonyschwebach.github.io/horiseon-refactor/)
 
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+The URL of the GitHub repository:
 [https://github.com/tonyschwebach/horiseon-refactor](https://github.com/tonyschwebach/horiseon-refactor)
 
 ---------------------------------------------------------------------------
 ## Usage 
 
 Horiseon webpage is used for current and prospective clients to view the offerings of Horiseon Marketing Company.
+
+Code can be viewed and cloned from the GitHub repository listed above.
 
 
 ![horiseon homepage screenshot](/assets/images/screenshot.png)
