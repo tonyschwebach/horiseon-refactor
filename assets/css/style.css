@@ -22,7 +22,7 @@ header h1 {
   font-size: 48px;
 }
 
-/* font color different as part of hoiSEOn logo */
+/* font color for SEO is different as part of hoiSEOn logo */
 header h1 .seo {
   color: #d9dcd6;
 }
@@ -58,7 +58,7 @@ a {
   background-position: center;
 }
 
-/* formatting for services section */
+/* formatting for services section. Services are: SEO, Reputation Mgmt, and Social Media Mktg */
 p {
   font-size: 16px;
 }
@@ -95,7 +95,7 @@ p {
   margin-left: 25px;
 }
 
-/* formatting for benefits section */
+/* formatting for benefits section. Benefits are: Lead Generation, Brand Awareness, and Cost mgmt. */
 .benefits {
   margin-right: 20px;
   padding: 20px;

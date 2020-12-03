@@ -1,44 +1,21 @@
-# horiseon-refactor
-
-
-
-
-
-* The URL of the deployed application.
-https://tonyschwebach.github.io/horiseon-refactor/
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-https://github.com/tonyschwebach/horiseon-refactor
-
-
-
-
-----------------------------------------------------------------------------
 # HORISEON REFACTOR
 
+--------------------------------------------------------------------------
 ## Description 
-Purpose: web accessibility and SEO, inclusion for disabled, avoid litigation
+Webpage for fictional marketing company, Horiseon. The page was refactored to
+1) Search Engine Optimization(ironically enough as that is one of the services they provide)
+2) Improve web accessibility
+3) Deter litigation for not be inclusive or accessible to all consumers
 
-consolidate redundant css lines
-added semantic HTML elements (header, footer, nav, section, article, figure)
-logically structured HTML and CSS
-alt attributes for images
-heading in sequential order
-title webpage
+Refactor included:
+ - Consolidate redundant css lines
+ - Added semantic HTML elements (header, footer, nav, section, article, figure)
+ - Logically structured HTML and CSS
+ - Added alt attributes for images
+ - Ensured header was in sequential order
+ - Provided a title for the webpage
 
-
-
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-
+--------------------------------------------------------------------------
 ## Installation
 
 The URL of the deployed application.
@@ -47,51 +24,28 @@ The URL of the deployed application.
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 [https://github.com/tonyschwebach/horiseon-refactor](https://github.com/tonyschwebach/horiseon-refactor)
 
-
+---------------------------------------------------------------------------
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+Horiseon webpage is used for current and prospective clients to view the offerings of Horiseon Marketing Company.
 
 
+![horiseon homepage screenshot](/assets/images/screenshot.png)
+
+
+--------------------------------------------------------------------------
 ## Credits
 
 Tutorials followed from Codecademy and Georgia Tech Coding Bootcamp. 
+
 Contributor Covenant - [Contributor Covenant](https://www.contributor-covenant.org/)
+
 License - MIT License [https://choosealicense.com/](https://choosealicense.com/)
 
-## License
-
-Copyright (c) [2020] [Tony Schwebach]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
----
+--------------------------------------------------------------------------
 ## Contributing
 
-Suggested Contributions:
+### Suggested Contributions:
 
 - Utilize reset.css. styles.css will need to be updated to restore default formats erased by reset.css.
 
@@ -99,16 +53,13 @@ Suggested Contributions:
 
 - Make the webpage mobile friendly.
 
-- Navigation links go to a destination
+- Navigation links go to a destination.
 
+---
 
+## Contributor Covenant Code of Conduct
 
-
-
-
-# Contributor Covenant Code of Conduct
-
-## Our Pledge
+### Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -120,7 +71,7 @@ and orientation.
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
-## Our Standards
+### Our Standards
 
 Examples of behavior that contributes to a positive environment for our
 community include:
@@ -144,7 +95,7 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## Enforcement Responsibilities
+### Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
@@ -156,7 +107,7 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-## Scope
+### Scope
 
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
@@ -164,7 +115,7 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
-## Enforcement
+### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
@@ -174,12 +125,12 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-## Enforcement Guidelines
+### Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
-### 1. Correction
+#### **1. Correction**
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
@@ -188,7 +139,7 @@ unprofessional or unwelcome in the community.
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
-### 2. Warning
+#### **2. Warning**
 
 **Community Impact**: A violation through a single incident or series
 of actions.
@@ -200,7 +151,7 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
-### 3. Temporary Ban
+#### **3. Temporary Ban**
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
@@ -211,7 +162,7 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
-### 4. Permanent Ban
+#### **4. Permanent Ban**
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
@@ -220,7 +171,7 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
-## Attribution
+### Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
@@ -238,4 +189,28 @@ at [https://www.contributor-covenant.org/translations][translations].
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+
+--------------------------------------------------------------------------
+## License
+
+Copyright (c) [2020] [Tony Schwebach]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
